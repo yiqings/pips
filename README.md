@@ -1,4 +1,4 @@
-# Discovering Optimal Virtual Staining Templates via Physics-inspired Particle Swarm Optimization
+# Discovering Optimal Virtual Staining Templates for Pathology Image Analysis via Physics-Inspired Particle Swarm Optimization
 
 This repository includes code of the paper **Discovering Optimal Virtual Staining Templates via Physics-inspired Particle Swarm Optimization**
 
